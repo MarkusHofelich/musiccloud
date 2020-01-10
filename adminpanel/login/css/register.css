@@ -1,0 +1,22 @@
+body{
+    background-color:skyblue !important;
+}
+.login{
+font-family:Courier;
+color:darkblue;
+margin-top:10px;
+}
+.formular{
+	margin-top:50px;
+}
+.btn{
+	margin-bottom:15%;
+}
+.errormsg{
+	background-color:deepskyblue;
+	height:30px;
+	padding-top:5px;
+}
+.erfolgmsg{
+	margin-top:25%;
+}

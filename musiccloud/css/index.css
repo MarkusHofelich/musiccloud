@@ -1,0 +1,27 @@
+body{
+	background-color:skyblue !important;
+}
+.center{
+	text-align:center;
+}
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+.navbar-toggle {
+    z-index:3;
+}
+
+.col-xs-12{
+	margin-top:100px;;
+}
+.fehler{
+	margin-top:25%;
+}
+.color{
+	color:midnightblue !important;
+}

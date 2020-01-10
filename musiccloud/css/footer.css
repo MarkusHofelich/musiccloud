@@ -1,0 +1,8 @@
+.footer{
+	background-color:aqua;
+	bottom:0 !important;
+	position:fixed !important;
+}
+a{
+	text-decoration:none !important;
+}

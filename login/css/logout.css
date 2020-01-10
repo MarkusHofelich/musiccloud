@@ -1,0 +1,16 @@
+body{
+	background-color:lightblue !important;
+}
+.erfolgreich{
+	margin-top:5%;
+}
+.ipwarning{
+	background-color:goldenrod;
+	height:25px;
+	padding-top:5px;
+}
+.beta{
+	background-color:goldenrod;
+	height:25px;
+	padding-top:5px;
+}
